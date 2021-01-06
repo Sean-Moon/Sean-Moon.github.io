@@ -22,17 +22,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Sean Moon
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
+  Sean Moon 기술 블로그
   A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
   Combines the best of static sites and modern web apps.
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
 tagline:               >
+  Sean Moon 기술 블로그
   A Jekyll theme with JavaScript powers.
   Open `_config.yml` to edit this text.
 
