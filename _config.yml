@@ -39,7 +39,7 @@ tagline:               >
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [ml, ai, bigdata, eda, hadoop, k8s, kubernetes, cloud]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
